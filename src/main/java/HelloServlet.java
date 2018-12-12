@@ -16,7 +16,7 @@ public class HelloServlet extends HttpServlet {
     public void init() throws ServletException
     {
         // Do required initialization
-        message = "Hello World";
+        message = "Hello World en branca test";
         Object o = Injector.object;
         System.out.println("Servlet " + HelloServlet.class.getName() + " OK");
 
