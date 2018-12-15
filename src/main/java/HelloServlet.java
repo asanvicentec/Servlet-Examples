@@ -95,7 +95,7 @@ public class HelloServlet extends HttpServlet {
 
     public void destroy()
     {
-        System.out.println("Hello World!!!");
+        System.out.println("Bye World!!!");
     }
 
 
